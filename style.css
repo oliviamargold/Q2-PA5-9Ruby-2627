@@ -1,0 +1,21 @@
+
+   body {
+    background-image: url("https://i.pinimg.com/1200x/d6/89/c5/d689c52ecd2a8356726733802ad8c433.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.container {
+    width: 70%;
+    border: 3px solid rgb(96, 75, 72);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px auto;
+    background-color:rgb(225, 254, 255);
+    box-shadow: 13px 13px 0px 7px rgba(91, 60, 45, 0.65);
+    -webkit-box-shadow: 13px 13px 0px 7px rgba(91, 60, 45, 0.65);
+    -moz-box-shadow: 13px 13px 0px 7px rgba(91, 60, 45, 0.65);
+}
+
